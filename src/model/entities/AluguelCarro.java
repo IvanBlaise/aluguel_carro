@@ -15,7 +15,7 @@ public class AluguelCarro {
 	
 	
 
-	public AluguelCarro(Date inicio, Date fim, Veiculo veiculo, Invoice invoice) {
+	public AluguelCarro(Date inicio, Date fim, Veiculo veiculo) {
 		this.inicio = inicio;
 		this.fim = fim;
 		this.veiculo = veiculo;
